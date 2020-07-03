@@ -37,6 +37,6 @@ body {
     flex: 1 0 calc(100% - 20px);
 }
 .box:hover img {
-    transform: scale(1.2) rotate(-5deg);
+    transform: scale(1.2) rotate(-2deg);
     cursor: pointer;
 }
